@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestAnimation</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_fragmant">FragmantActivity</string>
+    <string name="title_activity_screen_slide_pager">ScreenSlidePagerActivity</string>
+    <string name="fade">顯示和隱藏</string>
+    <string name="slide">滑動</string>
+    <string name="flip">翻轉</string>
+    <string name="zoom">縮放</string>
+    <string name="change">layout自帶動畫</string>
+    <string name="title_activity_card_flip">CardFlipActivity</string>
+    <string name="title_activity_zoom">ZoomActivity</string>
+    <string name="title_activity_layout_changes">LayoutChangesActivity</string>
+</resources>
